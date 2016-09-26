@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <title>Sample</title>
+    </head>
+    <body>
+        <p id="message">Loading...</p>
+        <script type="text/javascript" src="dist/sample.js"></script>
+        <script type="text/javascript" src="dist/index.js"></script>
+    </body>
+    </html> 
